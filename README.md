@@ -1,8 +1,6 @@
 ### Olá meu nome é Pedro Sanpei ✌️ 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(11) Pedro Rubio | LinkedIn](https://www.linkedin.com/in/pedro-rubio-a93705170/))
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([Pedro さんぺい (@pedro_rise) • Fotos e vídeos do Instagram](https://www.instagram.com/pedro_rise/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rubio-a93705170/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rise/)
 
 
 
